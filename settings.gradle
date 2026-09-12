@@ -1,0 +1,3 @@
+// Settings file for the Android project
+rootProject.name = "android-60sec-demo"
+include ":app"
